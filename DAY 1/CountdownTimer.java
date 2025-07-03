@@ -15,7 +15,7 @@ public class CountdownTimer {
             System.out.println("Time left: " + i + " seconds");
 
             try {
-                Thread.sleep(10000); 
+                Thread.sleep(1000); 
             } catch (InterruptedException e) {
                 System.out.println("Timer interrupted!");
             }
