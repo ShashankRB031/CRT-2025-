@@ -1,5 +1,4 @@
-/*Mr. Amit is working as group leader in publicising company and wants to implement an 
-anagram using strings helping to identify the different anagrams in a given string */
+/*Mr. Amit is working as group leader in publicising company and wants to implement an anagram using strings helping to identify the different anagrams in a given string */
 import java.util.*;
 
 public class AnagramGrouper {
