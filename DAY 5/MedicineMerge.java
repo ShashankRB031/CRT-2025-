@@ -11,7 +11,10 @@ public class MedicineMerge {
         System.out.println("Type 3 Medicine Array (Element-wise Sum):");
         for (int i = 0; i < n; i++) {
             type3[i] = type1[i] + type2[i];
-            System.out.printf("%.2f ", type3[i]);  // Print with 2 decimal places
+            System.out.printf("%.2f  ", type3[i]);  // Print with 2 decimal places
         }
     }
 }
+
+
+
