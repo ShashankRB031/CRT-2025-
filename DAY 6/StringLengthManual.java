@@ -1,3 +1,7 @@
+/*Preeti is a free lancer who works in a publishing company, she goes through a content in 
+which she comes across two strings such as synonymic cluster implement a code to find the 
+length of  a string without using a built-in function
+*/
 public class StringLengthManual {
     public static void main(String[] args) {
         String input = "synonymic";
