@@ -1,3 +1,4 @@
+/*Mr. Suresh is interested in lexicographic applications during content creation. He wants to perform stack operations specifically on non-consonant characters (such as vowels, digits, or symbols). Help him understand how to use a stack in Java to perform the following operations: */
 import java.util.Scanner;
 import java.util.Stack;
 
