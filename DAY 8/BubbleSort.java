@@ -16,9 +16,7 @@ public class BubbleSort {
                 }
             }
 
-            // If no swaps were made, array is already sorted
-            if (!swapped)
-                break;
+            if (!swapped) break;
         }
     }
 
