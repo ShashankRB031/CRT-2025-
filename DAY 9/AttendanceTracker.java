@@ -1,4 +1,5 @@
-/*simple Java program that simulates an employee attendance tracking system, showing the number of weekoffs per employee in a particular month, and sorting the data using Insertion Sort based on weekoffs*/
+/*Develop an attendance tracking system for employees, where each employee's name and the number of weekoffs in a given month are recorded. Use the Insertion Sort algorithm to sort the employees based on the number of weekoffs in descending order, highlighting the employee with the most and least weekoffs.
+ */
 public class AttendanceTracker {
     public static void main(String[] args) {
         // Each row: [employeeName, numberOfWeekoffs (as String)]
