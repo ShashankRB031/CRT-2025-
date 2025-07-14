@@ -1,3 +1,4 @@
+/*Design and implement a movie rating application that stores movie titles along with user ratings. Using the Selection Sort algorithm, sort the movies based on their user ratings in descending order and highlight the rating associated with each movie title. */
 public class KannadaMovieRatings {
     public static void main(String[] args) {
         // Kannada movies with ratings
@@ -17,7 +18,7 @@ public class KannadaMovieRatings {
                     maxIdx = j;
                 }
             }
-            // Swap
+            // Swapx
             String[] temp = movies[i];
             movies[i] = movies[maxIdx];
             movies[maxIdx] = temp;
